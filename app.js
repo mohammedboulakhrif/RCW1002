@@ -2,4 +2,4 @@
 
 setTimeout(() => {
     console.log("Bonjour teccart")
-}, 3000);
+}, 4000);
